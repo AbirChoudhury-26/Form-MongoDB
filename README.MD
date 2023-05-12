@@ -11,5 +11,6 @@
 Some Key points of using this :
 * NodeJS for backend framework for srver side connection
 * MongoDB to handle Customer Data taken by Regsitration form.
-* Frontend handled by simpe HTML,CSS page to send Real Time data to Database.
+* Frontend handled by simple HTML,CSS page to send Real Time data to Database.
 
+![Certificate](e:/ABIR/Pictures/Screenshots/Core%20Java%20Basic.PNG)
