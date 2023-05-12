@@ -13,4 +13,4 @@ Some Key points of using this :
 * MongoDB to handle Customer Data taken by Regsitration form.
 * Frontend handled by simple HTML,CSS page to send Real Time data to Database.
 
-![Certificate](e:/ABIR/Pictures/Screenshots/Core%20Java%20Basic.PNG)
+![Certificate](e:/ABIR/Pictures/Screenshots/Core%20Java%20Basic.PNG)[Stone](../../Downloads/stone.css)
