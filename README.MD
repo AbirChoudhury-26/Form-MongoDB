@@ -1,4 +1,4 @@
-# DOCTOR-APPOINTMENT REGISTRARTION FORM
+# **DOCTOR-APPOINTMENT REGISTRARTION FORM**
 
 ## This project contains a simple Appointment schduling form a any Doctal requirement.
 
@@ -13,4 +13,17 @@ Some Key points of using this :
 * MongoDB to handle Customer Data taken by Regsitration form.
 * Frontend handled by simple HTML,CSS page to send Real Time data to Database.
 
-![Alt text](Screenshots/Conf.png.jpg)
+# **Images of the above process when executed**
+
+1. Filling the form details 
+
+![Registration](Screenshots/Registration.PNG)
+
+2. User gets Confirmation Message on Succesfully Registered
+
+![Register Successfully](Screenshots/Register%20Successfully.PNG)
+
+3. Data of User Stored in MongoDB with Previous Data of users
+
+![Database](Screenshots/Data%20Insert.png)
+### Here we can clearly see the that data has been inserted successfully & that too with Encrypted form of Password so that it can't be breached easily
