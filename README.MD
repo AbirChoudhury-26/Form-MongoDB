@@ -1,12 +1,12 @@
-# **DOCTOR-APPOINTMENT REGISTRARTION FORM**
+# **DOCTOR-APPOINTMENT REGISTRATION FORM**
 
 ## This project contains a simple Appointment schduling form a any Doctal requirement.
 
 ### Here the Tech Stack used is:
 
-* HTML,CSS,JS
-* NodeJS 
-* MongoDB
+* `HTML,CSS,JS`
+* `NodeJS` 
+* `MongoDB`
 
 Some Key points of using this :
 * NodeJS for backend framework for srver side connection
