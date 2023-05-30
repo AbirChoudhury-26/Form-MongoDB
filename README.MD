@@ -9,9 +9,9 @@
 * `MongoDB`
 
 Some Key points of using this :
-* NodeJS for backend framework for srver side connection
-* MongoDB to handle Customer Data taken by Regsitration form.
-* Frontend handled by simple HTML,CSS page to send Real Time data to Database.
+* `NodeJS` for backend framework for server side connection
+* `MongoDB` to handle Customer Data taken by Regsitration form.
+* `Frontend` handled by simple HTML,CSS page to send Real Time data to Database.
 
 # **Images of the above process when executed**
 
