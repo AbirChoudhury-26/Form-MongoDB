@@ -17,7 +17,7 @@ Some Key points of using this :
 
 1. Filling the form details 
 
-![Registration](https://github.com/AbirChoudhury-26/Form-MongoDB/blob/master/Screenshots/Data%20Insert.png)
+![Registration](Screenshots/Registration.PNG)
 
 2. User gets Confirmation Message on Succesfully Registered
 
