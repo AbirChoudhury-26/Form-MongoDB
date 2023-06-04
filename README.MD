@@ -8,13 +8,13 @@
 * `NodeJS` 
 * `MongoDB`
 
-Some Key points of using this :
+## Some Key points of using this :
 * `NodeJS` for backend framework for server side connection
 * `MongoDB` to handle Customer Data taken by Regsitration form.
 * `Frontend` handled by simple HTML,CSS page to send Real Time data to Database.
 
-* Some More features loke Home Page can be added & then redirected to this Form Page.
-* Doctor Appointmnet System xan be used where main Doctor Website page opens up & Simply an Appointment form can be taken.
+* Some More features like Home Page can be added & then redirected to this Form Page.
+* Doctor Appointment System can be used where main Doctor Website page opens up & Simply an Appointment form can be taken.
 # **Images of the above process when executed**
 
 1. Filling the form details 
