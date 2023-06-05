@@ -4,7 +4,8 @@ h1{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color:rgb(3,235,184);
     justify-content: center;
-    font-size: 50px;
+    font-size: 60px;
+    
 }
 
 .form-container{
@@ -29,7 +30,7 @@ form input{
 
 #submit{
     width:200px;
-    background-color:RGB(92,284,92);
+    background-color:RGB(94,284,92);
     font-weight: 700;
     font-size:25px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
