@@ -20,9 +20,12 @@
 .form-container{
     display:flex;
     justify-content: center;
+    
+}
+.input{
+    box-shadow: 3px 3px rgb(255, 225, 0)
 
 }
-
 form{
     display:flex;
     flex-direction: column;
@@ -59,11 +62,11 @@ body{
 
     <div class="form-container">
         <form action="#" method="post">
-            <input type="text" name="fullname" placeholder="Enter Your Name">
-            <input type="email" name="email" placeholder="Enter Your Email">
-            <input type="password" name="password" placeholder="Password">
-            <input type="tel" name="phone" placeholder="Enter PhoneNo.">
-            <input type="submit" name="submit" value="Submit" id="submit">
+            <input type="text" name="fullname" placeholder="Enter Your Name" class="input">
+            <input type="email" name="email" placeholder="Enter Your Email" class="input">
+            <input type="password" name="password" placeholder="Password" class="input">
+            <input type="tel" name="phone" placeholder="Enter PhoneNo." class="input">
+            <input type="submit" name="submit" value="Submit" id="submit" class="input">
         </form>
     </div>
 </body>
