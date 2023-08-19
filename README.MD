@@ -1,10 +1,10 @@
 # **DOCTOR-APPOINTMENT REGISTRATION FORM**
 
-## This project contains a simple Appointment schduling form a any Doctal requirement.
+## This project contains a simple Appointment scheduling form for Foctor Appointment.
 
 ### Here the Tech Stack used is:
 
-* `HTML,CSS,JS`
+* `HTML,CSS,Javascript`
 * `NodeJS` 
 * `MongoDB`
 
@@ -15,6 +15,7 @@
 
 * Some More features like Home Page can be added & then redirected to this Form Page.
 * Doctor Appointment System can be used where main Doctor Website page opens up & Simply an Appointment form can be taken.
+
 # **Images of the above process when executed**
 
 1. Filling the form details 
