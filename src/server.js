@@ -17,7 +17,7 @@ app.use(bodyparser.urlencoded(
 app.use(express.json())
 
 app.get('/' ,(req,res)=>{
-     res.send('Home Page')
+     res.send('This is the home Page')
 })
 
 let mainfolder=path.join(__dirname,'../')
