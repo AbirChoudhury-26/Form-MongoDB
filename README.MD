@@ -8,6 +8,8 @@
 * `NodeJS` 
 * `MongoDB`
 
+ `Note: Tech Stack Like React JS can be  be used here for Registration Form Page & Contact Us Page`
+
 ## Some Key points of using this :
 * `NodeJS & Express` for backend framework for server side connection & API to connective frontend applications
 * `MongoDB` to handle Customer Data taken by Regsitration form & back retieval also.
@@ -31,5 +33,5 @@
 ![Database](Screenshots/Data%20Insert.png)
 ### Here we can clearly see the that data has been inserted successfully & that too with Encrypted form of Password so that it can't be breached easily.
 
-
-**Plz give your Valuable Suggestion to Improve it**.
+**Note:**  We can add Real Time User details also
+**Plz give your Valuable Suggestion to Improve it**
